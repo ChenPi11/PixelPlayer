@@ -1,7 +1,9 @@
 # PixelPlayer
 PixelPlayer can play video in console
 ```shell
-Usage: PixelPlayer.exe <video file>
+Usage: PixelPlayer.exe <video file> [-j <jump>] | -h
+         -h        Help
+         -j <jump> Jump frame
 ```
 PixelPlayer可以在控制台(不包含cmd.exe)中播放视频<
 <br>
