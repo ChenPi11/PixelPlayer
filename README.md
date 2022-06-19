@@ -11,3 +11,4 @@ PixelPlayer可以在控制台(不包含cmd.exe)中播放视频<
 <br>
 <b>想要达到好的播放效果，建议使用Windows Terminal打开</b>
 <br>
+<b>Please read "README.TXT" to make PixelPlayer</b>
