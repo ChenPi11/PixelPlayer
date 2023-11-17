@@ -1,2 +1,2 @@
-opency-python==4.6.0
+opencv-python==4.6.0
 pyaudio
